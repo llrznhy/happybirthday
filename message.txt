@@ -1,0 +1,74 @@
+Hi Adam, 
+Here is reply from the Richard. Can you pass it to other scrum masters ? 
+If have any other query please do let me know
+Regards,
+Afsana 
+
+Get Outlook for iOS
+From: Richard Xu <richard.xu@unimelb.edu.au>
+Sent: Tuesday, August 6, 2024 4:32:49 PM
+To: Afsana Imam <afsana.imam@unimelb.edu.au>; Narelle English <narelle.english@unimelb.edu.au>
+Cc: Philip Dart <philip.dart@unimelb.edu.au>
+Subject: RE: Students competency masters of software engineering project
+ 
+Hi Afsana,
+
+ 
+
+Thanks for the email. Yes we can provide access for higher privileged accounts, please provide us a list of name and email addresses, so we can set up in our UAT system. Students can freely do anything there.
+
+For lower privileged accounts, such as teachers access, the following address can be used for self-registration, with UoM email address.
+
+https://ables.uat.arcuom.com/account/register/stu/MGSETeachingRole/EDUC91191
+
+ 
+
+For the integration, we would need to discuss with students on what are needed. In my understanding, the implementation is to test ideas proposed from the semester 1. It doesn’t need to be fully functional on everything, just need to focus on key ideas. So it could be itself to simulate required Ruby functions. In another thinking, not integrating with our working code would be better for the subject, because of less restrictions.
+
+ 
+
+Kind regards,
+
+Richard
+
+ 
+
+Richard Xu | Chief Technology Officer | he/him
+
+Melbourne Metrics | Faculty of Education
+
+Level 8, 100 Leicester St
+
+The University of Melbourne, Victoria 3010 Australia
+
+E: richard.xu@unimelb.edu.au
+
+unimelb.edu.au | twitter.com/MelbMetrics
+
+ 
+
+From: Afsana Imam <afsana.imam@unimelb.edu.au>
+Sent: Tuesday, August 6, 2024 2:12 PM
+To: Narelle English <narelle.english@unimelb.edu.au>; Richard Xu <richard.xu@unimelb.edu.au>
+Cc: Philip Dart <philip.dart@unimelb.edu.au>
+Subject: Re: Students competency masters of software engineering project
+
+ 
+
+Hi Narelle and Richard,
+
+SWEN90014 unit is basically 2nd half of the project which implementation of the requirements we have got from you last semester. This semester it will be up and running project. 
+
+I have got some query on behalf of students. As the project is an existing project which would be integrating in existing ruby platform . Is it possible to give them admin access to play around with platform. If it’s not possible  that’s all good. 
+
+Also, if they get access to it are they able to integrate inside it ? As you have already your own system is it ok to integrate there or do they need to come up with different with platform with same project requirements?
+
+Any help would be greatly appreciated. 
+
+Regards,
+
+Afsana 
+
+ 
+
+Get Outlook for iOS
