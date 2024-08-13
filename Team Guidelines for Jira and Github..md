@@ -14,7 +14,7 @@ Jira is a platform used to assign tasks to team members, which is helpful for th
 
 • Team members are expected to update task status in a timely manner to ensure transparency and real-time project progress.
 
-1. **Github**
+2. **Github**
 
 • Members are required to add description when committing changes to describe what was changed, e.g. files added or deleted.
 
