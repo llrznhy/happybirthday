@@ -1,6 +1,6 @@
 # Reuse Plan
 
-In this project, We chose Vue.js as the front-end framework, Springboot as the back-end framework, and MySQL as the database.
+In this project, We choose Vue.js as the front-end framework, Springboot as the back-end framework, and MySQL as the database.
 
 ## Reuse Approach
 
