@@ -12,16 +12,16 @@ In this project, we choose React as the front-end framework, Springboot as the b
 
 | **User** | **Component** | **Develop Approach** | **Technology** |
 | --- | --- | --- | --- |
-|     | Login | Reuse generic | Built on MySQL |
+| System | Login | Reuse generic | Built on MySQL |
 |     | UI  | Reuse with modification | Modify the front-end style according to the function |
-| System | Main | Develop | Develop through front-end and back-end |
+|     | Main | Develop | Develop through front-end and back-end |
 |     | Server | Reuse | Existing server Apache Tomcat |
 |     | Database | Reuse | MySQL |
 |     | Authentication service | Reuse | JSON Web Tokens |
 | Teacher | View student information | Develop | With the front-end framework react |
-|     | View feedback | Reuse with modification | Reuse with view student information component |
+| Subiect Coordinator | View feedback | Reuse with modification | Reuse with view student information component |
 |     | View disagreement | Reuse with modification | Reuse and modify previous components |
-| Subiect Coordinator | Give feedback | Develop | Develop with development tools |
+|     | Give feedback | Develop | Develop with development tools |
 |     | Add/Edit module information | Develop | Develop with development tools |
 |     | Edit Evaluation<br><br>Criteria | Develop | Develop with specific function |
 | Lecturer and Tutor | View student information/module/<br><br>feedback | Reuse | Reuse and modify previous components |
