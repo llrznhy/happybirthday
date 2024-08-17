@@ -1,4 +1,4 @@
-** Reuse Plan**
+# Reuse Plan
 
 In this project, we choose React as the front-end framework, Springboot as the back-end framework, and MySQL as the database.
 
@@ -8,7 +8,7 @@ In this project, we choose React as the front-end framework, Springboot as the b
 
 ·MySQL offers excellent query performance and data security and integrates smoothly with Springboot.
 
-** Reuse Approach**
+## Reuse Approach
 
 | **User** | **Component** | **Develop Approach** | **Technology** |
 | --- | --- | --- | --- |
