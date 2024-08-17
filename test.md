@@ -2,11 +2,11 @@
 
 In this project, we choose React as the front-end framework, Springboot as the back-end framework, and MySQL as the database.
 
-·React can help develop complex front-end interfaces rapidly and promotes code reuse and maintainability.
+• React can help develop complex front-end interfaces rapidly and promotes code reuse and maintainability.
 
-·Springboot can simplify the development of enterprise-level Java applications.
+• Springboot can simplify the development of enterprise-level Java applications.
 
-·MySQL offers excellent query performance and data security and integrates smoothly with Springboot.
+• MySQL offers excellent query performance and data security and integrates smoothly with Springboot.
 
 ## Reuse Approach
 
